@@ -13,9 +13,9 @@ import javax.swing.JOptionPane;
 /*
  * Exception performing whole class analysis ignored.
  */
-private class AutoGenerateInputPanel.ActionHandler
+private class AutoGenerateInputPanel$ActionHandler
 implements ActionListener {
-    private AutoGenerateInputPanel.ActionHandler() {
+    private AutoGenerateInputPanel$ActionHandler() {
     }
 
     @Override
